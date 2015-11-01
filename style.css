@@ -1,0 +1,17 @@
+div {
+	padding : 10px;
+}
+
+#header {
+	text-align: center;
+	border : 2px solid black;
+	background-color: #ADD8E6;
+	color : white;
+}
+.container {
+	border : 2px solid black;
+	margin : 5px;
+}
+.answer {
+	display: inline;
+}
